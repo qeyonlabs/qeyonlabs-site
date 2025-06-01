@@ -1,3 +1,9 @@
+<?php
+// filepath: c:\Apache24\htdocs\qeyonlabs-site\index.php
+// PHP code can be added here or elsewhere in the file
+
+// Start HTML output
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
